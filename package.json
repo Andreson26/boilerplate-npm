@@ -8,8 +8,11 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	 "engines": {
+    "node": "15.5.0"
+	 },
 	"repository": {
 		"type": "git",
-		"url": "https://idontknow/todo.git"
+		"url": "https://github.com/Andreson26/boilerplate-npm/edit/gomix/package.json"
 	}
 }
